@@ -1,0 +1,19 @@
+.container {
+    padding-top: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.logo {
+    /* background-image: url('../assets/icon.png'); */
+    /* background-image: url('../assets/png-transparent-spider-man-heroes-download-with-transparent-background-free-thumbnail.png'); */
+    background-image: url('@assets/Blue_morpho_butterfly.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+}
